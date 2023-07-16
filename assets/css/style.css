@@ -1,0 +1,60 @@
+/* Styling the body element */
+body {
+    background-color: #00FA9A;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Styling the Title and giving shadow to the title */
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+    margin-top: 50px;
+}
+
+/* Setting width and display type of image */
+img {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Setting font color and font size of the image-caption */
+#caption {
+    font-size: 17px;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* Styling the content of the page like padding, font-size, font color, etc. */
+div#tribute-data {
+    background-color: rgba(46, 139, 87, 0.25);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    font-size: 18px;
+    color: #333;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+/* Styling the title of the content */
+h1.title-APJ {
+    font-size: 35px;
+    color: #333;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Styling the link provided at the end */
+#tribute-link {
+    text-decoration: none;
+    color: #333;
+}
